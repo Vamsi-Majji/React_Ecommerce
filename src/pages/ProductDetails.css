@@ -1,0 +1,90 @@
+.product-details {
+  padding: 20px;
+}
+
+.product-details img.product-image {
+  max-width: 100%;
+  height: auto;
+  width: 500px; /* Set image width to 500px */
+}
+
+.buy-button {
+  background-color: green; /* Set button color to green */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.buy-button:hover {
+  background-color: darkgreen; /* Optional: Add hover effect */
+}
+
+.confirmation-form {
+  margin-top: 20px;
+  background-color: #f8f8f8;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+}
+
+.confirmation-form h2 {
+  margin-bottom: 20px;
+}
+
+.confirmation-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.confirmation-form input, .confirmation-form select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.confirmation-form button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.confirmation-form button:hover {
+  background-color: #0056b3;
+}
+
+.similar-products {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.similar-product {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+  cursor: pointer; /* Add cursor pointer to indicate clickable area */
+}
+
+.similar-product:hover {
+  background-color: #f0f0f0; /* Optional: Add hover effect */
+}
+
+.similar-product img {
+  max-width: 100%;
+  height: auto;
+}
+
+.product-details ul li{
+  list-style: none;
+}

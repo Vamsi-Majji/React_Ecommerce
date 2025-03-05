@@ -1,0 +1,58 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #ddd;
+}
+
+.logo {
+  height: 80px;
+  width: 80px;
+}
+
+.menu {
+  display: flex;
+  gap: 20px;
+}
+
+.auth-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.signup-button, .login-button, .logout-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.signup-button:hover, .login-button:hover, .logout-button:hover {
+  background-color: #0056b3;
+}
+
+.user-icon {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.user-icon span {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+a{
+  text-decoration: none;
+  color: turquoise;
+  text-shadow: #0056b3;
+  font-weight: 500;
+  text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+}

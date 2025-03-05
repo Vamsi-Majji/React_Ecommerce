@@ -1,0 +1,489 @@
+[
+  {
+    "id": 1,
+    "category": "Smartphones",
+    "title": "Apple iPhone 13 Pro Max",
+    "price": "₹91,999",
+    "description": "The iPhone 13 Pro Max features a 6.7-inch Super Retina XDR display, 5G capability, and the new A15 Bionic chip for faster performance.",
+    "rating": 4.8,
+    "image_url": "https://ik.imagekit.io/3dqckpw4d/upload/iphone_13_pro_Silver165718135613-pro-silver.png",
+    "features": {
+      "display": "6.7-inch Super Retina XDR display",
+      "processor": "A15 Bionic chip",
+      "camera": "12MP Ultra-Wide, Wide, and Telephoto lenses",
+      "battery": "Video playback up to 28 hours",
+      "connectivity": "5G capable",
+      "other": "Ceramic Shield front cover, IP68 water resistance"
+    }
+  },
+  {
+    "id": 2,
+    "category": "Smartphones",
+    "title": "Samsung Galaxy S21 Ultra 5G",
+    "price": "₹99,999",
+    "description": "The Samsung Galaxy S21 Ultra comes with a 6.8-inch Dynamic AMOLED 2X display and an ultra-high-resolution camera for professional-grade photography.",
+    "rating": 4.7,
+    "image_url": "https://m.media-amazon.com/images/I/7153IwTOxrL.jpg",
+    "features": {
+      "display": "6.8-inch Dynamic AMOLED 2X",
+      "processor": "Exynos 2100",
+      "camera": "108MP quad-camera setup",
+      "battery": "5000mAh with fast charging",
+      "connectivity": "5G capable",
+      "other": "IP68 water resistance, 120Hz refresh rate"
+    }
+  },
+  {
+    "id": 3,
+    "category": "Headphones",
+    "title": "Sony WH-1000XM4 Wireless Headphones",
+    "price": "₹29,999",
+    "description": "Industry-leading noise-canceling headphones with up to 30 hours of battery life, adaptive sound control, and touch-sensitive controls.",
+    "rating": 4.8,
+    "image_url": "https://m.media-amazon.com/images/I/61UgZSYRllL.jpg",
+    "features": {
+      "noise_cancellation": "Industry-leading noise cancellation",
+      "battery": "Up to 30 hours",
+      "control": "Touch-sensitive controls",
+      "connectivity": "Bluetooth 5.0, NFC",
+      "other": "Adaptive Sound Control, Alexa voice control"
+    }
+  },
+  {
+    "id": 4,
+    "category": "Wearables",
+    "title": "Fitbit Charge 4 Fitness and Activity Tracker",
+    "price": "₹10,999",
+    "description": "Track your heart rate, sleep patterns, and activities with built-in GPS and over 7 days of battery life. It's your ultimate fitness companion.",
+    "rating": 4.7,
+    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Bz2X5a52L._AC_UL600_SR600,600_.jpg",
+    "features": {
+      "display": "1.0-inch OLED display",
+      "battery": "Up to 7 days of battery life",
+      "connectivity": "Bluetooth 4.0",
+      "other": "Built-in GPS, heart rate tracking, sleep tracking"
+    }
+  },
+  {
+    "id": 5,
+    "category": "Smart Home",
+    "title": "Echo Dot (4th Gen) | Smart speaker with Alexa",
+    "price": "₹4,499",
+    "description": "The Echo Dot lets you play music, control smart devices, and ask questions using only your voice, with improved sound and a sleek design.",
+    "rating": 4.7,
+    "image_url": "https://m.media-amazon.com/images/I/81r-WmLEyMS._AC_UF1000,1000_QL80_.jpg",
+    "features": {
+      "connectivity": "Wi-Fi, Bluetooth",
+      "audio": "Improved sound quality with Dolby processing",
+      "voice_control": "Alexa built-in",
+      "other": "Control smart home devices, set alarms, play music"
+    }
+  },
+  {
+    "id": 6,
+    "category": "Gaming",
+    "title": "Nintendo Switch Console",
+    "price": "₹24,999",
+    "description": "The Nintendo Switch is a hybrid console, perfect for gaming at home or on the go, featuring a 6.2-inch screen and detachable controllers.",
+    "rating": 4.8,
+    "image_url": "https://rukminim2.flixcart.com/image/850/1000/kuipea80/gamingconsole/l/t/v/64-switch-oled-console-with-white-joy-con-nintendo-no-original-imag7mpascrk2cyy.jpeg?q=20&crop=false",
+    "features": {
+      "display": "6.2-inch LCD screen",
+      "storage": "64GB internal storage",
+      "controllers": "Detachable Joy-Con controllers",
+      "connectivity": "Wi-Fi, Bluetooth",
+      "other": "Hybrid design, handheld and docked play"
+    }
+  },
+  {
+    "id": 7,
+    "category": "Audio",
+    "title": "Apple AirPods Pro",
+    "price": "₹20,999",
+    "description": "Active Noise Cancellation and Transparency mode provide an immersive listening experience. Includes a custom fit with three sizes of soft silicone tips.",
+    "rating": 4.8,
+    "image_url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FMT_WHH?wid=750&hei=556&fmt=jpeg&qlt=90&.v=1724041668836",
+    "features": {
+      "noise_cancellation": "Active Noise Cancellation",
+      "audio": "High-quality sound with Transparency mode",
+      "battery": "Up to 4.5 hours of listening time",
+      "connectivity": "Bluetooth 5.0",
+      "other": "Custom fit with three sizes of silicone tips"
+    }
+  },
+  {
+    "id": 8,
+    "category": "Streaming Devices",
+    "title": "Amazon Fire TV Stick 4K",
+    "price": "₹4,199",
+    "description": "Stream content in 4K UHD with Dolby Vision, HDR, and HDR10+ using the Fire TV Stick. Comes with Alexa Voice Remote for easy control.",
+    "rating": 4.7,
+    "image_url": "https://m.media-amazon.com/images/I/51IaZPnHhiL._AC_UF1000,1000_QL80_.jpg",
+    "features": {
+      "resolution": "4K UHD with Dolby Vision",
+      "connectivity": "Wi-Fi, Alexa Voice Remote",
+      "audio": "HDR10+ and Dolby Atmos support",
+      "other": "Easy control with Alexa"
+    }
+  },
+  {
+    "id": 9,
+    "category": "Kitchen Appliances",
+    "title": "Keurig K-Elite Coffee Maker",
+    "price": "₹14,499",
+    "description": "Brew your favorite coffee, iced coffee, and tea with the Keurig K-Elite. Features strong brew for a bolder cup and a large 72 oz water reservoir.",
+    "rating": 4.7,
+    "image_url": "https://m.media-amazon.com/images/I/71zUY9qXunL.jpg",
+    "features": {
+      "capacity": "72 oz water reservoir",
+      "brew_types": "Coffee, iced coffee, tea",
+      "control": "Strong brew option for bolder coffee",
+      "other": "K-Cup pod compatible"
+    }
+  },
+  {
+    "id": 10,
+    "category": "Laptops",
+    "title": "HP 15.6-inch Laptop",
+    "price": "₹45,999",
+    "description": "This laptop features an Intel Core i5 processor, 8GB of RAM, and a 256GB SSD for fast performance and multitasking. Perfect for home or office use.",
+    "rating": 4.5,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4HcOtS1A-5tT4x1R5feEdIPjDsw0J8C9nQ&s",
+    "features": {
+      "processor": "Intel Core i5",
+      "ram": "8GB RAM",
+      "storage": "256GB SSD",
+      "display": "15.6-inch Full HD display",
+      "battery": "Up to 8 hours of battery life",
+      "other": "Windows 10 pre-installed"
+    }
+  },
+  {
+    "id": 11,
+    "category": "Smartphones",
+    "title": "OnePlus 9 Pro 5G",
+    "price": "₹64,999",
+    "description": "The OnePlus 9 Pro 5G features a 6.7-inch Fluid AMOLED display, Snapdragon 888 chipset, and a quad-camera setup for versatile photography.",
+    "rating": 4.7,
+    "image_url": "https://www.bhphotovideo.com/images/images2500x2500/oneplus_5011101665_9_pro_128gb_5g_1629057.jpg",
+    "features": {
+      "display": "6.7-inch Fluid AMOLED",
+      "processor": "Snapdragon 888",
+      "camera": "48MP main, 50MP ultra-wide",
+      "battery": "4500mAh with Warp Charge 65",
+      "connectivity": "5G capable",
+      "other": "IP68 water resistance, 120Hz refresh rate"
+    }
+  },
+  {
+    "id": 12,
+    "category": "Headphones",
+    "title": "Bose QuietComfort 35 II",
+    "price": "₹29,999",
+    "description": "The Bose QuietComfort 35 II offers excellent noise-canceling capabilities and 20 hours of battery life for long listening sessions.",
+    "rating": 4.6,
+    "image_url": "https://img.kytary.com/eshop_sk/velky_v2/na/636791964544730000/e8bf3a52/64613431/bose-quietcomfort-35-ii-limited-edition.jpg",
+    "features": {
+      "noise_cancellation": "World-class noise cancellation",
+      "battery": "Up to 20 hours",
+      "control": "Voice assistants, button control",
+      "connectivity": "Bluetooth, NFC",
+      "other": "Lightweight and comfortable design"
+    }
+  },
+  {
+    "id": 13,
+    "category": "Smart Home",
+    "title": "Google Nest Thermostat",
+    "price": "₹7,999",
+    "description": "The Google Nest Thermostat helps you save energy by automatically adjusting your home’s temperature based on your preferences.",
+    "rating": 4.5,
+    "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6051/6051016cv14d.jpg",
+    "features": {
+      "temperature_control": "Smart temperature control",
+      "connectivity": "Wi-Fi, Bluetooth",
+      "voice_control": "Works with Google Assistant and Alexa",
+      "other": "Energy-saving settings, eco mode"
+    }
+  },
+  {
+    "id": 14,
+    "category": "Laptops",
+    "title": "Dell XPS 13",
+    "price": "₹1,09,999",
+    "description": "Dell's XPS 13 is a powerful ultrabook with a 13.4-inch 4K UHD display, 11th Gen Intel Core i7, and an 8GB RAM configuration.",
+    "rating": 4.8,
+    "image_url": "https://altechelectronics.org/wp-content/uploads/2021/05/dell-xps-13-7390-2-in-1-convertible-134-inch-fhd-touch-laptop-intel-core-1536x1478.jpg",
+    "features": {
+      "processor": "Intel Core i7 11th Gen",
+      "ram": "8GB RAM",
+      "storage": "512GB SSD",
+      "display": "13.4-inch 4K UHD",
+      "battery": "Up to 12 hours of battery life",
+      "other": "Lightweight, thin, and premium design"
+    }
+  },
+  {
+    "id": 15,
+    "category": "Gaming",
+    "title": "PlayStation 5 Console",
+    "price": "₹49,990",
+    "description": "The PlayStation 5 offers enhanced graphics, fast load times, and a new controller for a next-generation gaming experience.",
+    "rating": 4.9,
+    "image_url": "https://i5.walmartimages.com/asr/5f18a046-a71f-439f-9a6c-7063ef86d680.7067b7c81224ebb4552a2da435bef17e.jpeg",
+    "features": {
+      "storage": "825GB SSD",
+      "connectivity": "Wi-Fi 6, Bluetooth",
+      "graphics": "4K resolution, Ray tracing",
+      "other": "DualSense wireless controller with haptic feedback"
+    }
+  },
+  {
+    "id": 16,
+    "category": "Smartphones",
+    "title": "Xiaomi Mi 11X Pro",
+    "price": "₹29,999",
+    "description": "The Xiaomi Mi 11X Pro comes with a Snapdragon 888 processor, 6.67-inch AMOLED display, and a 108MP camera.",
+    "rating": 4.6,
+    "image_url": "https://images.hindustantimes.com/tech/img/2021/04/23/1600x900/image_-_2021-04-23T132503.265_1619164549840_1619164557444.jpg",
+    "features": {
+      "display": "6.67-inch AMOLED",
+      "processor": "Snapdragon 888",
+      "camera": "108MP main camera",
+      "battery": "4520mAh with 33W fast charging",
+      "connectivity": "5G capable",
+      "other": "120Hz refresh rate"
+    }
+  },
+  {
+    "id": 17,
+    "category": "Smartphones",
+    "title": "Realme Narzo 30 Pro",
+    "price": "₹16,999",
+    "description": "Realme Narzo 30 Pro features a 6.5-inch FHD+ display, MediaTek Dimensity 800U, and a 48MP AI camera for stunning shots.",
+    "rating": 4.5,
+    "image_url": "https://www.gizmochina.com/wp-content/uploads/2021/02/realme-narzo-30-Pro-5G-Featured.jpeg",
+    "features": {
+      "display": "6.5-inch FHD+",
+      "processor": "MediaTek Dimensity 800U",
+      "camera": "48MP AI camera",
+      "battery": "5000mAh with 30W fast charging",
+      "connectivity": "4G LTE",
+      "other": "90Hz refresh rate"
+    }
+  },
+  {
+    "id": 18,
+    "category": "Headphones",
+    "title": "JBL Tune 750BTNC",
+    "price": "₹6,999",
+    "description": "The JBL Tune 750BTNC provides active noise cancellation, 15 hours of battery life, and deep bass for an immersive listening experience.",
+    "rating": 4.4,
+    "image_url": "https://www.bhphotovideo.com/images/images1000x1000/jbl_jblt750btncblkam_tune_750btnc_wireless_over_ear_1523570.jpg",
+    "features": {
+      "noise_cancellation": "Active Noise Cancellation",
+      "battery": "Up to 15 hours",
+      "connectivity": "Bluetooth 4.2",
+      "other": "Lightweight design, comfortable ear cups"
+    }
+  },
+  {
+    "id": 19,
+    "category": "Wearables",
+    "title": "Garmin Forerunner 245 Music",
+    "price": "₹22,999",
+    "description": "The Garmin Forerunner 245 Music features built-in GPS, heart rate monitoring, and music storage for a true workout companion.",
+    "rating": 4.7,
+    "image_url": "https://www.garmin.com.sg/m/sg/g/products/forerunner-245-music-limited-cf-xl.png",
+    "features": {
+      "gps": "Built-in GPS",
+      "music_storage": "Up to 500 songs",
+      "heart_rate_monitor": "Yes",
+      "battery": "Up to 7 days",
+      "other": "Fitness and health tracking"
+    }
+  },
+  {
+    "id": 20,
+    "category": "Smart Home",
+    "title": "Wyze Cam v3",
+    "price": "₹3,499",
+    "description": "Wyze Cam v3 features HD video quality, motion detection, and cloud storage with a built-in siren for enhanced security.",
+    "rating": 4.6,
+    "image_url": "",
+    "features": {
+      "resolution": "1080p HD",
+      "motion_detection": "Yes",
+      "audio": "2-way audio",
+      "storage": "Cloud storage, microSD compatible",
+      "other": "Built-in siren"
+    }
+  },
+  {
+    "id": 21,
+    "category": "Smartphones",
+    "title": "Oppo Reno 5 Pro 5G",
+    "price": "₹35,999",
+    "description": "Oppo Reno 5 Pro 5G features a 6.55-inch AMOLED display, MediaTek Dimensity 1000+ processor, and 64MP quad-camera system.",
+    "rating": 4.5,
+    "image_url": "https://mygadgetreviewer.com/wp-content/uploads/2021/01/oppo-reno-5-pro-5g-full-specifications-and-price-in-india.jpg",
+    "features": {
+      "display": "6.55-inch AMOLED",
+      "processor": "MediaTek Dimensity 1000+",
+      "camera": "64MP quad-camera system",
+      "battery": "4350mAh with 65W SuperVOOC charging",
+      "connectivity": "5G capable",
+      "other": "90Hz refresh rate"
+    }
+  },
+  {
+    "id": 22,
+    "category": "Wearables",
+    "title": "Samsung Galaxy Watch 3",
+    "price": "₹29,999",
+    "description": "The Samsung Galaxy Watch 3 provides fitness tracking, sleep monitoring, and has built-in ECG functionality for heart health.",
+    "rating": 4.8,
+    "image_url": "https://m.media-amazon.com/images/I/71pEU5wUTFL._AC_SL1500_.jpg",
+    "features": {
+      "display": "1.4-inch Super AMOLED",
+      "fitness_tracking": "Heart rate monitoring, step tracking, GPS",
+      "battery": "Up to 2 days",
+      "connectivity": "Wi-Fi, Bluetooth",
+      "other": "ECG functionality"
+    }
+  },
+  {
+    "id": 23,
+    "category": "Smartphones",
+    "title": "Vivo V21e",
+    "price": "₹24,990",
+    "description": "Vivo V21e features a 6.44-inch AMOLED display, MediaTek Dimensity 700 processor, and a 44MP dual front camera for selfies.",
+    "rating": 4.3,
+    "image_url": "https://media.croma.com/image/upload/v1662423255/Croma%20Assets/Communication/Mobiles/Images/235453_8_ekl6wp.png",
+    "features": {
+      "display": "6.44-inch AMOLED",
+      "processor": "MediaTek Dimensity 700",
+      "camera": "44MP dual front camera",
+      "battery": "4000mAh with 33W fast charging",
+      "connectivity": "4G LTE",
+      "other": "90Hz refresh rate"
+    }
+  },
+  {
+    "id": 24,
+    "category": "Smart Home",
+    "title": "Philips Hue White and Color Ambiance Starter Kit",
+    "price": "₹9,499",
+    "description": "The Philips Hue Starter Kit includes smart bulbs that allow you to control your lighting with your voice or mobile app.",
+    "rating": 4.6,
+    "image_url": "https://cdn.mwave.com.au/images/400/AC23316_4.jpg",
+    "features": {
+      "smart_control": "Voice and mobile app control",
+      "connectivity": "Wi-Fi",
+      "color_options": "White and color ambiance",
+      "other": "Compatible with Alexa and Google Assistant"
+    }
+  },
+  {
+    "id": 25,
+    "category": "Laptops",
+    "title": "Acer Aspire 5",
+    "price": "₹39,999",
+    "description": "Acer Aspire 5 features an Intel Core i3 processor, 4GB RAM, and a 256GB SSD, offering solid performance for work and light gaming.",
+    "rating": 4.4,
+    "image_url": "https://i5.walmartimages.com/asr/77e3ea02-70b0-4c02-bcb1-010ea14b6119_1.be23f171b48afb3ed7798b78b0a77a47.jpeg",
+    "features": {
+      "processor": "Intel Core i3",
+      "ram": "4GB RAM",
+      "storage": "256GB SSD",
+      "display": "15.6-inch Full HD display",
+      "battery": "Up to 7 hours",
+      "other": "Windows 10 pre-installed"
+    }
+  },
+  {
+    "id": 26,
+    "category": "Smartphones",
+    "title": "Samsung Galaxy M32",
+    "price": "₹14,999",
+    "description": "Samsung Galaxy M32 features a 6.4-inch FHD+ AMOLED display, MediaTek Helio G80 processor, and a 64MP quad-camera setup.",
+    "rating": 4.5,
+    "image_url": "https://www.pinoytechnoguide.com/wp-content/uploads/2021/09/Samsung-Galaxy-M32.jpg",
+    "features": {
+      "display": "6.4-inch FHD+ AMOLED",
+      "processor": "MediaTek Helio G80",
+      "camera": "64MP quad-camera setup",
+      "battery": "6000mAh with 25W fast charging",
+      "connectivity": "4G LTE",
+      "other": "90Hz refresh rate"
+    }
+  },
+  {
+    "id": 27,
+    "category": "Smartphones",
+    "title": "Poco X3 Pro",
+    "price": "₹18,999",
+    "description": "Poco X3 Pro features a Snapdragon 860 chipset, 6.67-inch FHD+ display, and a 48MP quad-camera setup for high-quality photos.",
+    "rating": 4.6,
+    "image_url": "https://i5.walmartimages.com/asr/f11c0609-4303-4e71-af5e-44db52f94d82.8671ac5a1d0c6dc85864f59ba9c0a60c.jpeg",
+    "features": {
+      "display": "6.67-inch FHD+ IPS LCD",
+      "processor": "Snapdragon 860",
+      "camera": "48MP quad-camera setup",
+      "battery": "5160mAh with 33W fast charging",
+      "connectivity": "4G LTE",
+      "other": "120Hz refresh rate"
+    }
+  },
+  {
+    "id": 28,
+    "category": "Smartphones",
+    "title": "iQOO 7 Legend",
+    "price": "₹39,999",
+    "description": "iQOO 7 Legend offers a Snapdragon 888 processor, 6.62-inch AMOLED display, and a 48MP triple-camera setup for professional photography.",
+    "rating": 4.7,
+    "image_url": "https://www.notebookcheck.net/uploads/tx_nbc2/VivoiQOO7Legend__1_.jpg",
+    "features": {
+      "display": "6.62-inch AMOLED",
+      "processor": "Snapdragon 888",
+      "camera": "48MP triple-camera setup",
+      "battery": "4000mAh with 66W fast charging",
+      "connectivity": "5G capable",
+      "other": "120Hz refresh rate"
+    }
+  },
+  {
+    "id": 29,
+    "category": "Smartphones",
+    "title": "Realme X7 Max",
+    "price": "₹26,999",
+    "description": "Realme X7 Max comes with MediaTek Dimensity 1200, 6.43-inch Super AMOLED display, and a 64MP triple-camera setup.",
+    "rating": 4.6,
+    "image_url": "https://www.notebookcheck.net/uploads/tx_nbc2/RealmeX7Max__1_.jpg",
+    "features": {
+      "display": "6.43-inch Super AMOLED",
+      "processor": "MediaTek Dimensity 1200",
+      "camera": "64MP triple-camera setup",
+      "battery": "4500mAh with 50W fast charging",
+      "connectivity": "5G capable",
+      "other": "120Hz refresh rate"
+    }
+  },
+  {
+    "id": 30,
+    "category": "Smartphones",
+    "title": "Samsung Galaxy A52 5G",
+    "price": "₹25,999",
+    "description": "Samsung Galaxy A52 5G features a 6.5-inch Super AMOLED display, Snapdragon 750G chipset, and a 64MP quad-camera setup.",
+    "rating": 4.6,
+    "image_url": "https://tse1.mm.bing.net/th?id=OIP.h3wQF7uwrSt7KzHTPR_VqAHaHa&pid=Api&P=0&h=180",
+    "features": {
+      "display": "6.5-inch Super AMOLED",
+      "processor": "Snapdragon 750G",
+      "camera": "64MP quad-camera setup",
+      "battery": "4500mAh with 25W fast charging",
+      "connectivity": "5G capable",
+      "other": "120Hz refresh rate"
+    }
+  }
+]
